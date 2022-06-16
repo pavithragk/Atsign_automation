@@ -68,6 +68,7 @@ public class BaseClass {
 	
 	
 	
+	@SuppressWarnings("deprecation")
 	@BeforeTest
 	public void setup()  {
 		
